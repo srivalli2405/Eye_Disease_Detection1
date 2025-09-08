@@ -1,1 +1,1 @@
-# Eye_Disease_Detection1
+# Eye_Disease_Detection
